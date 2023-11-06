@@ -1,5 +1,5 @@
 # plugin.tvseries.nfo
-TV Shows DB plugin for Kodi
+TV Shows DB plugin for Kodi. Watch TV shows with Greek Subtitles.
 
 Installation
 ============
@@ -12,7 +12,7 @@ W.I.P.
 ============
 I am currently working on a rather better version of the plugin. Before I release this version it would be nice if I could get some feedback on the development version. Are there any bugs that I missed during testing? Do you want more settings?
 
-You can leave your feedback or bug reports.
+Let me know your feedback or bug reports.
 
 Disclaimer
 ============
