@@ -15,7 +15,7 @@ Installation
 
 W.I.P.
 ============
-I am currently working on a rather better version of the plugin. Before I release this version it would be nice if I could get some feedback on the development version. Are there any bugs that I missed during testing? Do you want more settings?
+Note: This plugin is in beta stage of development. Before I release an updated version of this plugin, it would be nice if I could get some feedback on the current version. Are there any bugs that I missed during testing? Do you want more settings?
 
 Disclaimer
 ============
