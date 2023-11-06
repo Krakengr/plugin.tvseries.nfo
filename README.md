@@ -5,7 +5,7 @@ Installation
 ============
 1. Go to the Add-ons menu and find the option Unknown Sources on the right. If it’s disabled, select it to enable it.
 2. Now download and install this plugin: https://github.com/jairoxyz/script.module.cloudscraper
-3. Now download and install this plugin (plugin.tvseries.nfo)
+3. Finally download and install this plugin (plugin.tvseries.nfo)
 4. The installation is complete
 
 W.I.P.
